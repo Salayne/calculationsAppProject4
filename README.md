@@ -30,7 +30,7 @@ I added a clear button to start a new calculation
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/A6iQSnm' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/A6iQSnm.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
@@ -41,7 +41,7 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned how to create buttons with functionality and how to link the buttons together.
 
 ## License
 
