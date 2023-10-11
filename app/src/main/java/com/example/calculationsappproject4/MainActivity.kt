@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         val lbsButton: Button = findViewById(R.id.lbsButton)
         val clearButton: Button = findViewById(R.id.clearButtton)
         val display = findViewById<TextView>(R.id.resultsDisplay)
+        val kglbs = findViewById<TextView>(R.id.kgorlbs)
 
 
 
@@ -30,6 +31,7 @@ class MainActivity : AppCompatActivity() {
             val formattedResult = "%.2f".format(result)
 
             display.text = "$formattedResult"
+            kglbs.text = "lbs"
         }
 
         lbsButton.setOnClickListener {
@@ -39,12 +41,14 @@ class MainActivity : AppCompatActivity() {
             val formattedResult = "%.2f".format(result)
 
             display.text = "$formattedResult"
+            kglbs.text = "kg"
         }
 
 
         clearButton.setOnClickListener {
             display.text = " "
             inputNumText.text.clear()
+            kglbs.text = " "
         }
 
     }

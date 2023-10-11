@@ -84,14 +84,14 @@
 
     <TextView
         android:id="@+id/resultsDisplay"
-        android:layout_width="162dp"
-        android:layout_height="47dp"
-        android:layout_marginTop="72dp"
+        android:layout_width="100dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="76dp"
         android:background="#131111"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/resultTextOnly"
         app:layout_constraintTop_toBottomOf="@+id/lbsButton" />
 
@@ -125,5 +125,21 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/kgorlbs"
+        android:layout_width="50dp"
+        android:layout_height="44dp"
+        android:layout_marginEnd="67dp"
+        android:layout_marginBottom="64dp"
+        android:background="#131111"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toTopOf="@+id/clearButtton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/resultsDisplay"
+        app:layout_constraintTop_toBottomOf="@+id/lbsButton"
+        app:layout_constraintVertical_bias="0.986" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
