@@ -2,33 +2,31 @@
 
 Submitted by: Tinina Dowell
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in this description**
+LBS/KG CONVERTER is an android app that converts any number from pounds to kg  or from kg to pounds. Just enter in the number and click a button and it will convert instantly!
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 ## Application Features
 
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
 The following REQUIRED features are completed:
 
-- [ ] At least one (1) user input
-- [ ] At least one (1) interactive View
-- [ ] At least one (1) output of a calculation based on the user input
+- [x ] At least one (1) user input
+- [xx ] At least one (1) interactive View
+- [x ] At least one (1) output of a calculation based on the user input
 
 The following STRETCH features are implemented:
 
 - [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
-- [ ] Add at least one (1) additional functionality
+- [x ] Add at least one (1) additional functionality
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
-
+- [x ] List anything else that you added to improve the app!
+I added a clear button to start a new calculation
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
