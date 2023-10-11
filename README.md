@@ -8,8 +8,7 @@ Time spent: 4 hours spent in total
 
 LBS/KG CONVERTER is an android app that converts any number from pounds to kg  or from kg to pounds. Just enter in the number and click a button and it will convert instantly!
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
-
+If I had to describe this project in three (3) emojis, they would be: :) :) :)
 ## Application Features
 
 The following REQUIRED features are completed:
@@ -31,7 +30,7 @@ I added a clear button to start a new calculation
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/A6iQSnm' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
@@ -46,7 +45,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2023 Tinina Dowell
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
